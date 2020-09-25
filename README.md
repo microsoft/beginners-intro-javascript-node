@@ -12,10 +12,10 @@ We use Node.js as the runtime instead of the browser. While almost all of the co
 
 Because our goal is to help get you ready for quick starts and tutorials, here's a great collection of resources you can use to continue to build your knowledge.
 
-- [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=beginner-ch9-niner)
-- [Quickstart: Use the Text Analytics client library](https://docs.microsoft.com/azure/cognitive-services/text-analytics/quickstarts/text-analytics-sdk?tabs=version-3&pivots=programming-language-javascript&WT.mc_id=beginner-ch9-niner)
-- [Quickstart: Create an image classification project with the Custom Vision client library](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?pivots=programming-language-javascript&WT.mc_id=beginner-ch9-niner)
-- [Create a bot with the Bot Framework SDK for JavaScript](https://docs.microsoft.com/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0&WT.mc_id=beginner-ch9-niner)
+- [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=beginner-ch9-cxa)
+- [Quickstart: Use the Text Analytics client library](https://docs.microsoft.com/azure/cognitive-services/text-analytics/quickstarts/text-analytics-sdk?tabs=version-3&pivots=programming-language-javascript&WT.mc_id=beginner-ch9-cxa)
+- [Quickstart: Create an image classification project with the Custom Vision client library](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?pivots=programming-language-javascript&WT.mc_id=beginner-ch9-cxa)
+- [Create a bot with the Bot Framework SDK for JavaScript](https://docs.microsoft.com/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0&WT.mc_id=beginner-ch9-cxa)
 
 You can also continue your learning journey with this series of videos about Node.js: [Beginner's Series to Node.js](https://aka.ms/NodeBeginnerSeries)
 
