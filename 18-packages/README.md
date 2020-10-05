@@ -11,3 +11,4 @@ By using **npm** (Node Package Manager) you can access an entire world of tools 
 - [express](http://expressjs.com/)
 - [Bot Framework](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0)
 - [JavaScript Azure Cognitive Services modules](https://docs.microsoft.com/en-us/javascript/api/overview/azure/cognitive-services?view=azure-node-latest)
+- Learn more about Node.js and packages in video with [Beginner's Series to Node.js](https://aka.ms/NodeBeginnerSeries)

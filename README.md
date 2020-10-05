@@ -17,6 +17,8 @@ Because our goal is to help get you ready for quick starts and tutorials, here's
 - [Quickstart: Create an image classification project with the Custom Vision client library](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?pivots=programming-language-javascript&WT.mc_id=beginner-ch9-niner)
 - [Create a bot with the Bot Framework SDK for JavaScript](https://docs.microsoft.com/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0&WT.mc_id=beginner-ch9-niner)
 
+You can also continue your learning journey with this series of videos about Node.js: [Beginner's Series to Node.js](https://aka.ms/NodeBeginnerSeries)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
