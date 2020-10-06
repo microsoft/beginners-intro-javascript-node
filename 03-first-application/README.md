@@ -4,5 +4,5 @@ When you're learning a programming language for the first time, convention is to
 
 ## Further reading
 
-- [Get started using Node.js on Windows for beginners](https://docs.microsoft.com/windows/nodejs/beginners?WT.mc_id=beginner-ch9-cxa)
+- [Get started using Node.js on Windows for beginners](https://docs.microsoft.com/windows/nodejs/beginners?WT.mc_id=beginner-ch9-niner)
 - [console.log](https://nodejs.org/dist/latest-v12.x/docs/api/console.html#console_console_log_data_args)
